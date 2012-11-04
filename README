@@ -1,0 +1,4 @@
+This is a repository that stores python files that implement several numerical algorithms that were written for my Numerical Analysis course in Spring 2012. This is a work in progress as many files need to be rewritten with better format and style. So expect things to change frequent and radically. Also, some new files will be created and added as I fiddle around with some more numerical algorithms. 
+
+**Important**
+These files use the numpy/scipy modules to function. 
